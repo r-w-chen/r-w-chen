@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Chakra UI**
 
-- 👨‍💻 All of my projects are available at [https://r-w-chen.github.io/portfolio/](https://r-w-chen.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://beckychen.me/](https://beckychen.me/)
 
 - 📫 How to reach me **rebeccawchen@gmail.com**
 
